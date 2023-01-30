@@ -1,4 +1,4 @@
-### Hi there/Привет/Салам 👋
+### Hi there👋   Привет👋   Салам 👋
 Мой стек технологий:
 <img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
 
