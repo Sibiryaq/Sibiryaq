@@ -1,6 +1,6 @@
 ### Hi there 👋
 Мой стек технологий:
-<img src="https://img.shields.io/badge/ЯндексПрактикум.Javadeveloper-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
+<img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
 
 <!--
 **Sibiryaq/Sibiryaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
