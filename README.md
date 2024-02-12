@@ -1,6 +1,16 @@
-### Hi there👋   Привет👋
+### Привет👋
 Мой стек технологий:
-<img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
+- Java 17
+- Spring/Spring Boot
+- PostqreSQL
+- Maven
+- Hibernate ORM
+- Docker
+- REST
+- JUnit/Integration Testing
+- <img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
+
+
 
 <!--
 **Sibiryaq/Sibiryaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
