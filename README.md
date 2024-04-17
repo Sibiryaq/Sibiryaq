@@ -1,13 +1,13 @@
 ### Привет👋
 Мой стек технологий:
 - Java 17
-- Spring/Spring Boot
+- Spring Framework
 - PostqreSQL
 - Maven
 - Hibernate ORM
 - Docker
 - REST
-- JUnit/Integration Testing
+- JUnit/Integration Testing и легкое тестирование связки Tomcat+Jenkins
 - <img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
 
 
