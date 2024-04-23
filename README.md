@@ -9,6 +9,6 @@
  ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=90fd87)
 - ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
 ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
-- <img src="https://img.shields.io/badge/ЯндексПрактикум.JAVA-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
+- <img src="https://img.shields.io/badge/ЯндексПрактикум-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
 и легкое тестирование связки Tomcat+Jenkins на Ubunru
 
