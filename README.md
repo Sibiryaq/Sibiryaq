@@ -9,7 +9,6 @@
 - ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
   ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
--  <img src="https://img.shields.io/badge/ЯндексПрактикум-6A5ACD?style=for-the-badge&logo=Coveralls&logoColor=black"/>
 
 
 
