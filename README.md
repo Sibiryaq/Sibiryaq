@@ -1,12 +1,16 @@
-### Хеллоу эврибади👋
-- ![Java](https://img.shields.io/badge/-Java-F29111?style=for-the-badge&logo=java&logoColor=e38873) ![Spring](https://img.shields.io/badge/-Spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=90fd87) 
-- ![Hibernate](https://img.shields.io/badge/-Hibernate-B6A975?style=for-the-badge&logo=hibernate&logoColor=717c88) ![Postgres](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
-- ![JUnit](https://img.shields.io/badge/-junit-6CA315?style=for-the-badge&logo=junit&logoColor=C60000)
-  ![Mockito](https://img.shields.io/badge/-mockito-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
- -  ![Jenkins](https://img.shields.io/badge/-Jenkins-6CA315?style=for-the-badge&logo=mockito&logoColor=90fd87)
- - ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=90fd87)
- - ![Maven](https://img.shields.io/badge/-Maven-7D2675?style=for-the-badge&logo=apache&logoColor=e38873)
-  
+Hello,
+My name is Alexander Tolstikov. I went from a mechanic to a technologist and leading metrology engineer at a depot in Krasnoyarsk (5 years), now I am going through a similar path as a backend developer - to realize myself in what I like.
+I write code in Java, in the future I plan to use Kotlin. And the fact that Java is very popular in fintech is, of course, an extra "for".
 
+My stack:
+Java
+Spring, Spring Boot, Spring Security
+JDBC, Hibernate, Flyway
+Junit, Mockito, Testcontainers
+PostgreSQL
+Kafka
+Docker, Maven
+Some of my projects are pinned below. Hope you find ones interesting.
 
+Have you any idea or question, please contact me via Telegram [@sibiryaq](https://t.me/sibiryaq).
 
