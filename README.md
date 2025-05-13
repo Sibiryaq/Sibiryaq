@@ -1,17 +1,19 @@
 Здравствуйте,
-Меня зовут Александр Толстиков. Я прошел путь от механика до технолога и ведущего инженера-метролога в депо города Красноярска (5 лет), 
+Меня зовут Александр Толстиков.   
+Прошел путь от механика до технолога и ведущего инженера-метролога в депо города Красноярска (5 лет),   
 сейчас прохожу похожий путь в качестве бэкенд-разработчика — чтобы реализовать себя в том, что мне нравится.  
 Пишу код на Java, в будущем планирую использовать Kotlin.
 
 Мой стек:
-Java
-Spring, Spring Boot, Spring Security
-Junit, Mockito, Testcontainers
-PostgreSQL, Hibernate, JDBC,
-Kafka
-Docker, Maven
-Flyway, Jenkins
+Java  
+Spring, Spring Boot, Spring Security  
+Junit, Mockito, Testcontainers  
+PostgreSQL, Hibernate, JDBC,  
+Kafka  
+Docker, Maven  
+Flyway, Jenkins  
 
 Некоторые мои проекты закреплены ниже. Надеюсь, они покажутся вам интересными.
-Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaq](https://t.me/sibiryaq).
+Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaqdev](https://t.me/sibiryaqdev).
+
 
