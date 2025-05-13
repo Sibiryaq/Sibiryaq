@@ -5,13 +5,13 @@
 Пишу код на Java, в будущем планирую использовать Kotlin.
 
 Мой стек:
-Java  
+Java 11 - 21  
 Spring, Spring Boot, Spring Security  
 Junit, Mockito, Testcontainers  
 PostgreSQL, Hibernate, JDBC,  
 Kafka  
 Docker, Maven  
-Flyway, Jenkins  
+Swagger, Jenkins, Prometheus, Graphana  
 
 Некоторые мои проекты закреплены ниже. Надеюсь, они покажутся вам интересными.
 Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaqdev](https://t.me/sibiryaqdev).
