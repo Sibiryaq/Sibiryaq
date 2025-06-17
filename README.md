@@ -6,7 +6,7 @@
 
 Мой стек:
 Java 11 - 21  
-Spring, Spring Boot, Spring Security  
+Spring, Spring Boot
 Junit, Mockito, Testcontainers  
 PostgreSQL, Hibernate, JDBC,  
 Kafka  
