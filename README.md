@@ -1,8 +1,3 @@
-Привет,  
-Пытаюсь реализовать себя в том, что мне нравится.  
-Пишу код на Java, в будущем планирую использовать Kotlin.
-
-Мой стек:
 Java 11 - 21  
 Spring, Spring Boot
 Junit, Mockito, Testcontainers  
