@@ -6,6 +6,6 @@ Kafka
 Docker, Maven  
 Swagger, Jenkins, Prometheus, Graphana  
 
-Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaqdev](https://t.me/sibiryaqdev).
+Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaqdev](https://t.me/sibiryaq).
 
 
