@@ -1,5 +1,5 @@
 Java 11 - 21  
-Spring, Spring Boot
+Spring, Spring Boot  
 Junit, Mockito, Testcontainers, Postman  
 PostgreSQL, Hibernate, JDBC,  
 Kafka  
