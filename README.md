@@ -1,11 +1,11 @@
 Java 11 - 21  
-Spring, Spring Boot  
-Junit, Mockito, Testcontainers, Postman  
-PostgreSQL, Hibernate, JDBC,  
-Kafka  
+Spring (Spring Framework, Boot, MVC, Data, Security)
+PostgreSQL, Hibernate, JDBC,
+Kafka
+Junit, Mockito, Testcontainers 
 Docker, Maven  
-Swagger, Jenkins, Prometheus, Graphana  
+Jenkins, Prometheus, Grafana  
 
-Если у вас есть какие-то идеи или вопросы, свяжитесь со мной в Telegram [@sibiryaq](https://t.me/sibiryaq).
+Идеи и предложения [@sibiryaq](https://t.me/sibiryaq).
 
 
