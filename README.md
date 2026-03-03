@@ -6,6 +6,5 @@ Junit, Mockito, Testcontainers
 Docker, Maven  
 Jenkins, Prometheus, Grafana  
 
-Идеи и предложения [@sibiryaq](https://t.me/sibiryaq).
 
 
